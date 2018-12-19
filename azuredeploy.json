@@ -79,18 +79,7 @@
             "addressPrefix": "[parameters('subnet1Prefix')]"
           }
 		
-        }  //,
- //       {
-  //        "apiVersion": "2018-06-01",
-  //        "type": "subnets",
- //         "location": "[parameters('location')]",
- //         "name": "[parameters('subnet2Name')]",
- //         "dependsOn": [
- //           "[parameters('vnetName')]"
- //         ],
- //         "properties": {
- //           "addressPrefix": "[parameters('subnet2Prefix')]"
- //         }
+         }
         }
       ]
     }
