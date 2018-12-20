@@ -42,8 +42,8 @@
       "defaultValue": "Subnet2",
       "metadata": {
         "description": "Subnet 2 Name"
-      },
-
+      }
+    },	
     "subnet3Prefix": {
       "type": "string",
       "defaultValue": "10.0.3.0/24",
@@ -57,7 +57,6 @@
       "metadata": {
         "description": "Subnet 3 Name"
       }
-
     },
     "location": {
       "type": "string",
